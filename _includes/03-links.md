@@ -1,2 +1,2 @@
-https://github.com/brae1994/markdown-portfolio
-### Link to brae1994 Github
+[GitHub] https://github.com/brae1994/markdown-portfolio
+
