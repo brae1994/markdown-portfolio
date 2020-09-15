@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+#Brianna Wenzel
 
 <br>
 
@@ -10,5 +10,5 @@ layout: default
 
 <br>
 
-{% include 03-links.md %}
+[Facebook]https://www.facebook.com/brianna.wenzel
 
