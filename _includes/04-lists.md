@@ -1,1 +1,13 @@
-Replace this with a list of your favorite things.
+###Fravorite TV Series 
+- House MD 
+- Dexter 
+- Shameless 
+- Stranger Things
+- American Horror Story 
+- Supernatural 
+- Grey's Anatomy  
+- Dead to Me 
+- Breaking Bad 
+- Forensic Files 
+
+
