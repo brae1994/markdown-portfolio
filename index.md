@@ -12,3 +12,10 @@ layout: default
 
 [Facebook]https://www.facebook.com/brianna.wenzel
 
+<br>
+
+{% include 04-lists.md %}
+
+<br>
+
+{% include 05-emphasis.md %}
